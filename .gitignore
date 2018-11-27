@@ -1,2 +1,4 @@
 .hell
 .python-version
+db.sqlite3
+__pycache__
