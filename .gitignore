@@ -1,6 +1,8 @@
 .env
 .hell
 .python-version
+.venv
 *.pyc
 db.sqlite3
+venv
 __pycache__
