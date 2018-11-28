@@ -1,1 +1,1 @@
-web: gunicorn hell.wsgi
+web: gunicorn hell.wsgi --log-file -
