@@ -4,6 +4,8 @@
 .python-version
 .venv
 *.pyc
+coverage.xml
 db.sqlite3
+newrelic.ini
 venv
 __pycache__
