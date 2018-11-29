@@ -1,1 +1,1 @@
-web: new-relic-admin run-program gunicorn hell.wsgi --log-file -
+web: newrelic-admin run-program gunicorn hell.wsgi --log-file -
